@@ -1,0 +1,35 @@
+DESCRIPTION,GENDER,AGE_GROUP,Count
+Essential hypertension (disorder),M,50+,261
+Essential hypertension (disorder),F,50+,219
+Ischemic heart disease (disorder),M,50+,181
+Ischemic heart disease (disorder),F,50+,117
+Essential hypertension (disorder),M,36-50,109
+Hyperlipidemia (disorder),M,50+,97
+Hyperlipidemia (disorder),F,50+,92
+Essential hypertension (disorder),F,36-50,88
+Diabetes mellitus type 2 (disorder),M,50+,67
+Diabetes mellitus type 2 (disorder),F,50+,55
+Essential hypertension (disorder),M,19-35,43
+Essential hypertension (disorder),F,19-35,30
+Malignant neoplasm of breast (disorder),F,50+,25
+Alzheimer's disease (disorder),F,50+,24
+Chronic congestive heart failure (disorder),F,50+,22
+Chronic congestive heart failure (disorder),M,50+,16
+Diabetes mellitus type 2 (disorder),M,36-50,14
+Alzheimer's disease (disorder),M,50+,13
+Hyperlipidemia (disorder),F,36-50,12
+Diabetes mellitus type 2 (disorder),F,36-50,11
+Ischemic heart disease (disorder),M,36-50,8
+Hyperlipidemia (disorder),M,36-50,6
+Ischemic heart disease (disorder),F,36-50,5
+Diabetes mellitus type 2 (disorder),F,19-35,4
+Asthma (disorder),M,50+,3
+Malignant neoplasm of breast (disorder),M,50+,3
+Malignant neoplasm of breast (disorder),F,19-35,2
+Malignant neoplasm of breast (disorder),F,36-50,2
+Asthma (disorder),F,50+,2
+Chronic congestive heart failure (disorder),M,36-50,1
+Chronic congestive heart failure (disorder),F,36-50,1
+Diabetes mellitus type 2 (disorder),M,19-35,1
+Asthma (disorder),M,36-50,1
+Asthma (disorder),M,19-35,1
